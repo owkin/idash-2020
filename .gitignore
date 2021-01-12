@@ -1,4 +1,7 @@
-# Byte-compiled / optimized / DLL files
+# Python files and folders
 __pycache__/
 *.pyc
+
+owkin-models/
+owkin-predictions/
 

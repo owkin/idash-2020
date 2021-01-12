@@ -1,0 +1,7 @@
+torch==1.6.0
+configargparse==1.2.3
+scikit-learn==0.23.2
+pandas==1.1.2
+docker==4.3.1
+opacus==0.12
+torchcsprng==0.1.2
